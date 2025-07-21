@@ -1,4 +1,4 @@
-# 🌿 Oxyra Health – SDGs 3: Kehidupan Sehat dan Sejahtera
+# 🌿 Oxyra Health – SDGs 3: Good Health and Well-Being
 
 Oxyra Health adalah aplikasi web berbasis Laravel 10 yang dirancang untuk membantu masyarakat memantau kualitas udara secara real-time dan mendapatkan edukasi kesehatan untuk mencegah penyakit seperti ISPA (Infeksi Saluran Pernapasan Akut), sebagai kontribusi terhadap **SDGs 3** (*Good Health and Well-Being*).
 
