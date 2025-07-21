@@ -3,7 +3,7 @@
 Oxyra Health adalah aplikasi web berbasis Laravel 10 yang dirancang untuk membantu masyarakat memantau kualitas udara secara real-time dan mendapatkan edukasi kesehatan untuk mencegah penyakit seperti ISPA (Infeksi Saluran Pernapasan Akut), sebagai kontribusi terhadap **SDGs 3** (*Good Health and Well-Being*).
 
 <p align="center">
-  <img src="public/images/OXYRA_HEALTH.png" width="300" alt="Logo Oxyra Health">
+  <img src="https://raw.githubusercontent.com/MuhammadDaffa19/oxyra-health/main/public/images/OXYRA%20HEALTH.png" width="300" alt="Oxyra Health Logo">
 </p>
 
 ---
