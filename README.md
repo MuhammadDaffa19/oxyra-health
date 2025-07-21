@@ -104,5 +104,5 @@ npm run dev
 
 ## 📌 Catatan
 
-* Jangan upload file `.env` atau `vendor/` ke GitHub.
-* Tambahkan `public/images/OXYRA HEALTH.png` ke `.gitattributes` jika perlu versi tetap untuk GitHub Pages (opsional).
+* Folder vendor/, .env, dan node_modules/ diabaikan dengan .gitignore
+* Untuk akses semua fitur, pastikan koneksi ke database dan API sudah aktif
