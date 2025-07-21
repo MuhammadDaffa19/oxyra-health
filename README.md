@@ -106,3 +106,104 @@ npm run dev
 
 * Folder vendor/, .env, dan node_modules/ diabaikan dengan .gitignore
 * Untuk akses semua fitur, pastikan koneksi ke database dan API sudah aktif
+
+---
+
+## 📸 Galeri Dokumentasi Aplikasi Oxyra Health
+
+Berikut adalah tampilan-tampilan dari aplikasi Oxyra Health berbasis Laravel 10 yang mendukung SDGs 3 (*Good Health and Well-Being*). Setiap fitur dirancang untuk memantau kualitas udara dan menjaga kesehatan masyarakat dari ancaman polusi dan ISPA.
+
+---
+
+### 🏠 Halaman Utama Sebelum Login
+
+<img width="100%" alt="tampilan sebelum login" src="https://github.com/user-attachments/assets/e4abc65d-e679-45fd-a8e5-5da0319f3b2b" />
+
+Tampilan awal website yang menyambut pengguna. Menampilkan deskripsi singkat dan akses ke login atau register.
+
+---
+
+### 🔐 Halaman Login
+
+<img width="100%" alt="halaman login" src="https://github.com/user-attachments/assets/f4a700ba-22ac-42cb-9049-3a1682890eeb" />
+
+Form untuk pengguna yang sudah memiliki akun agar bisa login dan mengakses fitur-fitur utama.
+
+---
+
+### 📝 Halaman Register
+
+<img width="100%" alt="halaman register" src="https://github.com/user-attachments/assets/e0f8f86c-835d-42f0-897a-be500b7dc7c7" />
+
+Form registrasi untuk pengguna baru yang ingin mendaftar di Oxyra Health.
+
+---
+
+### 🧭 Dashboard Setelah Login
+
+<img width="100%" alt="tampilan setelah login" src="https://github.com/user-attachments/assets/bfed2278-d56f-4672-8933-4b87ebf6f21b" />
+
+Dashboard utama yang menampilkan status kualitas udara terkini berdasarkan kota pilihan atau lokasi pengguna.
+
+---
+
+### ⭐ Kota Favorit
+
+<img width="100%" alt="kota favorit" src="https://github.com/user-attachments/assets/b1c254b7-843d-4689-8b6b-4e3a10d351d0" />
+
+Pengguna dapat menyimpan kota-kota favorit untuk memantau AQI secara berkala tanpa perlu mencari ulang.
+
+---
+
+### 💡 Tips Kesehatan Berdasarkan AQI
+
+<img width="100%" alt="Tips Kesehatan Berdasarkan AQI" src="https://github.com/user-attachments/assets/89a31fc4-2039-462f-9505-fbc91bd95f59" />
+<img width="100%" alt="Tips Kesehatan Berdasarkan AQI 2" src="https://github.com/user-attachments/assets/25af76e3-8843-4f66-8ceb-1f9ccce16480" />
+
+Tips kesehatan harian yang disesuaikan dengan kualitas udara saat ini. Semakin buruk AQI, semakin penting menjaga kesehatan pernapasan.
+
+---
+
+### 📘 Edukasi Polusi dan ISPA
+
+<img width="100%" alt="Edukasi Polusi & ISPA" src="https://github.com/user-attachments/assets/564c23dc-0405-48f8-a7a6-689cb3ea4ad1" />
+<img width="100%" alt="Edukasi Polusi & ISPA 2" src="https://github.com/user-attachments/assets/ec4858fc-7a4e-4b87-9b51-c9214afd9403" />
+<img width="100%" alt="Edukasi Polusi & ISPA 3" src="https://github.com/user-attachments/assets/eb534a66-2768-4245-bf4a-0e8d93fcaf12" />
+
+Menampilkan informasi tentang dampak polusi udara, gejala ISPA, serta langkah-langkah pencegahan berbasis literasi kesehatan. Serta ada mini game QUIZ sederhana untuk Tes Pengetahuanmu tentang Polusi & Kesehatan!
+
+---
+
+### 📍 Lokasi Saya
+
+<img width="100%" alt="Lokasi Saya" src="https://github.com/user-attachments/assets/e9efd1a2-b36a-48ad-aeae-15fb2c45bac2" />
+<img width="100%" alt="Lokasi Saya 2" src="https://github.com/user-attachments/assets/4462aa54-8590-418e-b9da-b1cf4cee5bba" />
+<img width="100%" alt="Lokasi Saya 3" src="https://github.com/user-attachments/assets/3e4d2499-183c-4272-8f8b-053e8be2c382" />
+
+Fitur ini menampilkan kualitas udara berdasarkan lokasi pengguna saat ini, didukung API geolokasi dan WAQI.
+
+---
+
+### 🩺 Cek Risiko ISPA
+
+<img width="100%" alt="Cek Risiko ISPA" src="https://github.com/user-attachments/assets/f10ae184-6b91-4bc5-b464-c1519b4a33c4" />
+<img width="100%" alt="Cek Risiko ISPA 2" src="https://github.com/user-attachments/assets/1b997b86-9b2c-4557-91b7-d53110c73e02" />
+<img width="100%" alt="Cek Risiko ISPA 3" src="https://github.com/user-attachments/assets/cd67658e-363a-4fab-88e3-fc896b0f0cc2" />
+
+Form sederhana untuk mengetahui tingkat risiko ISPA berdasarkan gejala yang dirasakan dan status lingkungan.
+
+---
+
+### 💨 Kalkulator Napas Sehat
+
+<img width="100%" alt="Kalkulator Napas Sehat" src="https://github.com/user-attachments/assets/4d9d048f-7096-4d2a-b92b-8ff376d65dc6" />
+<img width="100%" alt="Kalkulator Napas Sehat 2" src="https://github.com/user-attachments/assets/eca3d3f5-fa7b-4804-bd74-ac815f92a757" />
+
+Kalkulator untuk memperkirakan durasi napas sehat harian yang masih aman berdasarkan paparan udara saat ini.
+
+---
+
+> Semua fitur di atas dibuat untuk membantu masyarakat dalam meningkatkan kesadaran terhadap pentingnya menjaga kesehatan pernapasan sebagai kontribusi terhadap **Sustainable Development Goals (SDGs) nomor 3**.
+
+---
+
